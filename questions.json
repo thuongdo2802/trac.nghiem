@@ -1,0 +1,2023 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "1 . We can’t afford to eat _______ very often.",
+    "options": [
+      "A . off",
+      "B . out",
+      "C . in",
+      "D . down"
+    ],
+    "correctAnswer": "out",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "2 . When you rang, I _______ my bike.",
+    "options": [
+      "A . cleaned",
+      "B . used to clean",
+      "C . was cleaning",
+      "D . clean"
+    ],
+    "correctAnswer": "was cleaning",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "3 . Leon never _______ about it, but he was once a world champion skier.",
+    "options": [
+      "A . talks",
+      "B . is talking",
+      "C . was talking",
+      "D . "
+    ],
+    "correctAnswer": "talks",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "4 . I _______ never played this game before.",
+    "options": [
+      "A . have",
+      "B . will",
+      "C . would",
+      "D . shall"
+    ],
+    "correctAnswer": "have",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "5 .  Have you _______ been on a school trip?",
+    "options": [
+      "A . yet",
+      "B . for",
+      "C . before",
+      "D . ever"
+    ],
+    "correctAnswer": "ever",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "6 . Hurry up, or we’ll _______ the bus!",
+    "options": [
+      "A . avoid",
+      "B . drop",
+      "C . miss",
+      "D . lose"
+    ],
+    "correctAnswer": "miss",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "7 . The _______ from London to Berlin is about 919 kilometres.",
+    "options": [
+      "A . measure",
+      "B . length",
+      "C . gap",
+      "D . distance"
+    ],
+    "correctAnswer": "distance",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "8 . I always enjoy our school _______ to France.",
+    "options": [
+      "A . excursion",
+      "B . trip",
+      "C . journey",
+      "D . travel"
+    ],
+    "correctAnswer": "trip",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "9 . I’ve always dreamt _______ China,",
+    "options": [
+      "A . to visit",
+      "B . of visiting",
+      "C . I visit",
+      "D . visit"
+    ],
+    "correctAnswer": "of visiting",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "10 . The in-flight entertainment may differ _______ that advertised.",
+    "options": [
+      "A . to",
+      "B . from",
+      "C . in",
+      "D . at"
+    ],
+    "correctAnswer": "from",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "11 . There’s a fantastic _______ from the top of the Empire State Building!",
+    "options": [
+      "A . view",
+      "B . sight",
+      "C . appearance",
+      "D . look"
+    ],
+    "correctAnswer": "view",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "12 . It’s my birthday _______ Friday, so we’re spending the weekend in London.",
+    "options": [
+      "A . on",
+      "B . at",
+      "C . in",
+      "D . to"
+    ],
+    "correctAnswer": "on",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "13 . My mum _______ the bus to work every morning, but Dad drives.",
+    "options": [
+      "A . catches",
+      "B . does",
+      "C . runs",
+      "D . goes"
+    ],
+    "correctAnswer": "catches",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "14 . We _______ when someone knocked at the door.",
+    "options": [
+      "A . talked",
+      "B . had talked",
+      "C . were talking",
+      "D . were talked"
+    ],
+    "correctAnswer": "were talking",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "15 . _______ your time- don’t rush.",
+    "options": [
+      "A . tell",
+      "B . find",
+      "C . spend",
+      "D . take"
+    ],
+    "correctAnswer": "take",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "16 . It’s _______ time you learned to swim.",
+    "options": [
+      "A . big",
+      "B . tall",
+      "C . high",
+      "D . far"
+    ],
+    "correctAnswer": "high",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "17 . I’m not siding _______ her because she’s my sister, but because she’s right.",
+    "options": [
+      "A . from",
+      "B . for",
+      "C . to",
+      "D . with"
+    ],
+    "correctAnswer": "with",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "18 . “Why were you so tired yesterday?”    -  “Because I _______ all morning.”",
+    "options": [
+      "A . jog",
+      "B . had been jogging",
+      "C . was jogged",
+      "D . had been jogged"
+    ],
+    "correctAnswer": "had been jogging",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "19 . It’s nice to win, but the important thing is to _______ your best.",
+    "options": [
+      "A . make",
+      "B . take",
+      "C . have",
+      "D . do"
+    ],
+    "correctAnswer": "do",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "20 . Many children have such a good relationship _______ their parents that they see them as friends.",
+    "options": [
+      "A . by",
+      "B . for",
+      "C . with",
+      "D . from"
+    ],
+    "correctAnswer": "with",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "21 . I don’t have _______ money, so I’ll have to wait to get a new coat.",
+    "options": [
+      "A . a piece of",
+      "B . a few",
+      "C . much",
+      "D . many"
+    ],
+    "correctAnswer": "much",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "22 . I couldn’t sell my old magazines, so I gave them _______.",
+    "options": [
+      "A . over",
+      "B . off",
+      "C . up",
+      "D . away"
+    ],
+    "correctAnswer": "away",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "23 . By this time next week, we _______ the chemistry exam.",
+    "options": [
+      "A . have finished",
+      "B . have been finished",
+      "C . will have finished",
+      "D . will finishing"
+    ],
+    "correctAnswer": "will have finished",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "24 . Shannan doesn’t dye her hair; it’s _______ blonde.",
+    "options": [
+      "A . physically",
+      "B . naturally",
+      "C . logically",
+      "D . organically"
+    ],
+    "correctAnswer": "naturally",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "25 . _______  the TV off. This show is boring.",
+    "options": [
+      "A . Put",
+      "B . Set",
+      "C . Turn",
+      "D . Make"
+    ],
+    "correctAnswer": "Turn",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "26 . This is the laboratory _______ we do all the experiments.",
+    "options": [
+      "A . who",
+      "B . which",
+      "C . that",
+      "D . where"
+    ],
+    "correctAnswer": "where",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "27 . Is this our DVD or is it _______?",
+    "options": [
+      "A . them",
+      "B . their",
+      "C . theirs",
+      "D . ours"
+    ],
+    "correctAnswer": "theirs",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "28 . Do you know _______ idea it was? Was it Greg’s or Fionna’s?",
+    "options": [
+      "A . who",
+      "B . whose",
+      "C . whom",
+      "D . whos"
+    ],
+    "correctAnswer": "whose",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "29 . It’s _______ honor to be here this evening to speak to you.",
+    "options": [
+      "A . a",
+      "B . an",
+      "C . the",
+      "D . no word"
+    ],
+    "correctAnswer": "an",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "30 .  It’s important that we should _______ the environment.",
+    "options": [
+      "A . protection",
+      "B . protectively",
+      "C . protect",
+      "D . protective"
+    ],
+    "correctAnswer": "protect",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "31 . Everyone at the Haloween party hid their face by wearing different _______.",
+    "options": [
+      "A . collars",
+      "B . masks",
+      "C . skirts",
+      "D . sleeves"
+    ],
+    "correctAnswer": "masks",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "32 . He hopes that she will be happy with this _______ ring.",
+    "options": [
+      "A . nice small Chinese",
+      "B . nice Chinese small",
+      "C . small nice Chinese",
+      "D . Chinese nice small"
+    ],
+    "correctAnswer": "nice small Chinese",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "33 . The more talkative she was, _______ uncomfortable we felt.",
+    "options": [
+      "A . more than",
+      "B . the more than",
+      "C . the better than",
+      "D . the more"
+    ],
+    "correctAnswer": "the more",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "34 . We could tolerate your noisy parties time and again, but throwing bottles out of window was beyond the _______.",
+    "options": [
+      "A . faint",
+      "B . pale",
+      "C . sick",
+      "D . dull"
+    ],
+    "correctAnswer": "pale",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "35 . Rita ‘s very _______ and easily gets upset when people criticize her.",
+    "options": [
+      "A . level-headed",
+      "B . sensible",
+      "C . sensitive",
+      "D . open-minded"
+    ],
+    "correctAnswer": "sensitive",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "36 . Local residents object _______ the new power station in their area.",
+    "options": [
+      "A . to have",
+      "B . having",
+      "C . of having",
+      "D . to having"
+    ],
+    "correctAnswer": "to having",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "37 . The government should do more for _______ people.",
+    "options": [
+      "A . usual",
+      "B . ordinary",
+      "C . everyday",
+      "D . typical"
+    ],
+    "correctAnswer": "ordinary",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "38 . I hope I’ve got _______ money to pay for this meal.",
+    "options": [
+      "A . so",
+      "B . such",
+      "C . enough",
+      "D . too"
+    ],
+    "correctAnswer": "enough",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "39 . I can’t get a car yet because I’m not _______ to drive.",
+    "options": [
+      "A . enough old",
+      "B . quite old",
+      "C . so old",
+      "D . old enough"
+    ],
+    "correctAnswer": "old enough",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "40 . He said it was an accident, but I know he did it on _______.",
+    "options": [
+      "A . purpose",
+      "B . aim",
+      "C . goal",
+      "D . reason"
+    ],
+    "correctAnswer": "purpose",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "41 . _______ I have a look at those shoes in the window, please?",
+    "options": [
+      "A . Must",
+      "B . Would",
+      "C . Should",
+      "D . Could"
+    ],
+    "correctAnswer": "Could",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "42 . You’ll _______ tell the police that your house was broken into.",
+    "options": [
+      "A . have to",
+      "B . must",
+      "C . had to",
+      "D . should"
+    ],
+    "correctAnswer": "have to",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "43 . Being _______ an injection wasn’t as painful as I thought it was going to be.",
+    "options": [
+      "A . given",
+      "B . done",
+      "C . made",
+      "D . taken"
+    ],
+    "correctAnswer": "given",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "44 . You must _______ thrilled when the doctor said it wasn’t serious.",
+    "options": [
+      "A . be",
+      "B . have been",
+      "C . be being",
+      "D . have been being"
+    ],
+    "correctAnswer": "have been",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "45 . I was shocked when I crashed the car, but at least I wasn’t _______.",
+    "options": [
+      "A . injured",
+      "B . damaged",
+      "C . broken",
+      "D . spoilt"
+    ],
+    "correctAnswer": "injured",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "46 . I think my favortite _______ is probably table tennis.",
+    "options": [
+      "A . athletics",
+      "B . exercise",
+      "C . sport",
+      "D . gym"
+    ],
+    "correctAnswer": "sport",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "47 . The hotel has a poor reputation and _______ people want to stay there.",
+    "options": [
+      "A . little",
+      "B . a few",
+      "C . a little",
+      "D . few"
+    ],
+    "correctAnswer": "few",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "48 . They have been living here since they _______ married.",
+    "options": [
+      "A . will get",
+      "B . getting",
+      "C . got",
+      "D . get"
+    ],
+    "correctAnswer": "got",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "49 . You should _______ me you were going to be late!",
+    "options": [
+      "A . tell",
+      "B . have told",
+      "C . to tell",
+      "D . to have told"
+    ],
+    "correctAnswer": "have told",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "50 . You don’t eat meat, _______ you?",
+    "options": [
+      "A . are",
+      "B . eat",
+      "C . have",
+      "D . do"
+    ],
+    "correctAnswer": "do",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "51 .John _______ me to lend him money! It’s so annoying.",
+    "options": [
+      "A . asks always",
+      "B . always is asking",
+      "C . is always asking",
+      "D . had been always asking"
+    ],
+    "correctAnswer": "is always asking",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "52.  It _______ when I got up this morning, so I stayed at home.",
+    "options": [
+      "A . was raining",
+      "B . has rained",
+      "C . has been raining",
+      "D . would rain"
+    ],
+    "correctAnswer": "was raining",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "53.  I apologize for the mess. I _______ time to clear up after lunch yet.",
+    "options": [
+      "A . wasn’t having",
+      "B . hadn’t had",
+      "C . don’t have",
+      "D . haven’t had"
+    ],
+    "correctAnswer": "haven’t had",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "54.  Where do you think _______ in twenty years’ time?",
+    "options": [
+      "A . are you going to be",
+      "B . you will be",
+      "C . you are being",
+      "D . will you be"
+    ],
+    "correctAnswer": "you will be",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "55.  He stopped _______ years ago.",
+    "options": [
+      "A . to smoke",
+      "B . that he would smoke",
+      "C . smoking",
+      "D . smoke"
+    ],
+    "correctAnswer": "smoking",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "56.  She knew a little Spanish so she ______ to explain her problem to the police in Madrid.",
+    "options": [
+      "A . can",
+      "B . could",
+      "C . was able",
+      "D . succeeded"
+    ],
+    "correctAnswer": "was able",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "57.  Sam, _______ wife works with me, is going to the US on business.",
+    "options": [
+      "A . whose",
+      "B . who’s",
+      "C . who",
+      "D . which"
+    ],
+    "correctAnswer": "whose",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "58.  Mr. Thompson’s wallet _______ while he was travelling on the Underground yesterday.",
+    "options": [
+      "A . stole",
+      "B . was robbed",
+      "C . robbed",
+      "D . was stolen"
+    ],
+    "correctAnswer": "was stolen",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "59.  I _______ a new car this year if I were you.",
+    "options": [
+      "A . won’t buy",
+      "B . wouldn’t buy",
+      "C . didn’t buy",
+      "D . haven’t bought"
+    ],
+    "correctAnswer": "wouldn’t buy",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "60.  He _______ tea with milk during his stay in the UK three years ago.",
+    "options": [
+      "A . used to drinking",
+      "B . got used to drink",
+      "C . was used to drink",
+      "D . got used to drinking"
+    ],
+    "correctAnswer": "got used to drinking",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "61.  They made a mistake when they added up the total.\nA mistake _______ when they added up the total.",
+    "options": [
+      "A . has made",
+      "B . was made",
+      "C . was been made",
+      "D . is made"
+    ],
+    "correctAnswer": "was made",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "62.  A: \"It's really hot in this room.\" B: \"Wait. I _______ the window.\"",
+    "options": [
+      "A . 'll open",
+      "B . open",
+      "C . 'm opening",
+      "D . 'm going to open"
+    ],
+    "correctAnswer": "'ll open",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "63.  The new sofa isn't _______ the old one.",
+    "options": [
+      "A . as nice as",
+      "B . as nice than",
+      "C . as nicer than",
+      "D . the nicest as"
+    ],
+    "correctAnswer": "as nice as",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "64.  I want to watch _______ TV. Have you seen _______ remote?",
+    "options": [
+      "A . the / the",
+      "B . – / the",
+      "C . the / a",
+      "D . the / –"
+    ],
+    "correctAnswer": "– / the",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "65.  “OK. I’ll do it for you,” Sheila told him. Sheila agreed _______ for him.",
+    "options": [
+      "A . doing it",
+      "B . to do it",
+      "C . that to do it",
+      "D . that she is doing it"
+    ],
+    "correctAnswer": "to do it",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "66.  I’m not sure this is my size. Can I put it on to see if it fits?\nI’m not sure this is my size.\nCan I try _______ to see if it fits?",
+    "options": [
+      "A . on it",
+      "B . it up",
+      "C . it on",
+      "D . out it"
+    ],
+    "correctAnswer": "it on",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "67.  The brochures are produced by a printer. A printer _______ the brochures.",
+    "options": [
+      "A . produces",
+      "B . is produced",
+      "C . are producing",
+      "D . has been produced"
+    ],
+    "correctAnswer": "produces",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "68.  It is such a terrible day that I don’t _______ to go out.",
+    "options": [
+      "A . want",
+      "B . need",
+      "C . fancy",
+      "D . enjoy"
+    ],
+    "correctAnswer": "want",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "69.  The soldiers obeyed the officer’s orders. The soldiers _______ out the officer’s orders.",
+    "options": [
+      "A . put",
+      "B . carried",
+      "C . got",
+      "D . took"
+    ],
+    "correctAnswer": "carried",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "70.  Although he had little money, he offered to pay for her lunch.\nIn spite of _______ little money, he offered to pay for her lunch.",
+    "options": [
+      "A . have",
+      "B . to have",
+      "C . he had",
+      "D . having"
+    ],
+    "correctAnswer": "having",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "71.  My Christmas present was very _______ I got a pair of socks.",
+    "options": [
+      "A . amazing",
+      "B . amazed",
+      "C . disappointing",
+      "D . disappointed"
+    ],
+    "correctAnswer": "disappointing",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "72.  It was a nice day, so we decided _______ for a walk.",
+    "options": [
+      "A . to have",
+      "B . to take",
+      "C . to go",
+      "D . to make"
+    ],
+    "correctAnswer": "to go",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "73.  Please hurry or you will be _______ for the concert.",
+    "options": [
+      "A . ready",
+      "B . early",
+      "C . soon",
+      "D . late"
+    ],
+    "correctAnswer": "late",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "74.  Mai is interested _______ taking an art course.",
+    "options": [
+      "A . in",
+      "B . on",
+      "C . of",
+      "D . with"
+    ],
+    "correctAnswer": "in",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "75.  She _______ out the cellar when she _______ across an old painting that may be valuable.",
+    "options": [
+      "A . cleaned/ was coming",
+      "B . has cleaned/ came",
+      "C . was cleaning/ came",
+      "D . has been cleaning/ was coming"
+    ],
+    "correctAnswer": "was cleaning/ came",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "76.  The radio is _______ loud. I can’t hear anything.",
+    "options": [
+      "A . too much",
+      "B . too many",
+      "C . a lot",
+      "D . a few"
+    ],
+    "correctAnswer": "too much",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "77.  He invited me _______ a drink with him.",
+    "options": [
+      "A . have",
+      "B . having",
+      "C . to have",
+      "D . to having"
+    ],
+    "correctAnswer": "to have",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "78.  A new airport _______.",
+    "options": [
+      "A . has just opened",
+      "B . has just been opened",
+      "C . was just been opened",
+      "D . have just been opened"
+    ],
+    "correctAnswer": "has just been opened",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "79.  If he _______ in time, there _______ a serious accident. It’s lucky he has quick reactions!",
+    "options": [
+      "A . didn’t break/ will be",
+      "B . hadn’t break/ would be",
+      "C . hadn’t broken/ would have been",
+      "D . wouldn’t have broken/ had been"
+    ],
+    "correctAnswer": "hadn’t broken/ would have been",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "80.  If I _______ she likes me, I'd ask her out. But she doesn't like me.",
+    "options": [
+      "A . know",
+      "B . knew",
+      "C . had known",
+      "D . would known"
+    ],
+    "correctAnswer": "knew",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "81.  I _______ in this village all my life.",
+    "options": [
+      "A . live",
+      "B . 'm living",
+      "C . 've lived",
+      "D . was lived"
+    ],
+    "correctAnswer": "'ve lived",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "82.  We _______ tomorrow morning. The train _______ at 7:45 a.m.",
+    "options": [
+      "A . will leave / leaves",
+      "B . leave / is leaving",
+      "C . are leaving / leaves",
+      "D . leave / leaves"
+    ],
+    "correctAnswer": "are leaving / leaves",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "83.  You should drive _______ if you don't want to have an accident.",
+    "options": [
+      "A . slower",
+      "B . more slowly",
+      "C . more slower",
+      "D . slowlier"
+    ],
+    "correctAnswer": "more slowly",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "84.  I asked him where _______ but he didn't answer.",
+    "options": [
+      "A . was Tommy",
+      "B . Tommy was",
+      "C . did Tommy go",
+      "D . did Tommy be"
+    ],
+    "correctAnswer": "Tommy was",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "85.   A : \"Do you speak English?\"  B : \"Yes, _______.\"",
+    "options": [
+      "A . a little",
+      "B . little",
+      "C . a few",
+      "D . few"
+    ],
+    "correctAnswer": "a little",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "86.  People say my brother’s _______ He likes giving gifts to his friends.",
+    "options": [
+      "A . brave",
+      "B . generous",
+      "C . modest",
+      "D . optimistic"
+    ],
+    "correctAnswer": "generous",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "87.  Stamp collecting is one of the world's most popular _______.",
+    "options": [
+      "A . customs",
+      "B . traditions",
+      "C . hobbies",
+      "D . usages"
+    ],
+    "correctAnswer": "hobbies",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "88.  The poet had written several _______ before completing the final version.",
+    "options": [
+      "A . originals",
+      "B . poems",
+      "C . novels",
+      "D . drafts"
+    ],
+    "correctAnswer": "drafts",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "89.  I have _______ friends at school, but _______ of them has come to my home yet.",
+    "options": [
+      "A . a lot of / none",
+      "B . every / all",
+      "C . many / both",
+      "D . some / neither"
+    ],
+    "correctAnswer": "a lot of / none",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "90.  The car alarm _______ went off ten minutes ago is still on.",
+    "options": [
+      "A . whose",
+      "B . who",
+      "C . which",
+      "D . when"
+    ],
+    "correctAnswer": "which",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "91.  I haven’t seen her since she _______ to New Zealand.",
+    "options": [
+      "A . emigrated",
+      "B . had emigrated",
+      "C . has emigrated",
+      "D . would have emigrated"
+    ],
+    "correctAnswer": "emigrated",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "92.  There are nine known planets in the solar system but perhaps others _______ in the future.",
+    "options": [
+      "A . would discover",
+      "B . will discover",
+      "C . discovered",
+      "D . will be discovered"
+    ],
+    "correctAnswer": "will be discovered",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "93.  You really should stop _______ all the time; it’s annoying.",
+    "options": [
+      "A . to complain",
+      "B . complaining",
+      "C . complain",
+      "D . to complaining"
+    ],
+    "correctAnswer": "complaining",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "94.  We hired a new engineer _______ worked for a big electronics company for years.",
+    "options": [
+      "A . who",
+      "B . where",
+      "C . whose",
+      "D . which"
+    ],
+    "correctAnswer": "who",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "95.  If I _______ very busy tomorrow, I _______ to your birthday party. I'm so sorry.",
+    "options": [
+      "A . won't be / could have come",
+      "B . am not / will come",
+      "C . weren't / would come",
+      "D . wasn't / would have come"
+    ],
+    "correctAnswer": "weren't / would come",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "96.  _______ you please answer that call? I _______ care of the baby.",
+    "options": [
+      "A . Will / have to take",
+      "B . Could / needn't take",
+      "C . Might / must take",
+      "D . May / should be taking"
+    ],
+    "correctAnswer": "Will / have to take",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "97.  What exactly _______ at the time the robbery took place?",
+    "options": [
+      "A . have you done",
+      "B . would you do",
+      "C . were you doing",
+      "D . have you been doing"
+    ],
+    "correctAnswer": "were you doing",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "98.  If they had invited Walter, the party _______ better.",
+    "options": [
+      "A . will be",
+      "B . would be",
+      "C . were to be",
+      "D . would have been"
+    ],
+    "correctAnswer": "would have been",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "99.  We are planning _______ the software model in March.",
+    "options": [
+      "A . a launch",
+      "B . launching",
+      "C . will launch",
+      "D . to launch"
+    ],
+    "correctAnswer": "to launch",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "100.  We _______ the children to the zoo this Sunday. This _______ their first visit.",
+    "options": [
+      "A . will take / has been",
+      "B . take / is going to be",
+      "C . are taking / will be",
+      "D . have taken/ will have been"
+    ],
+    "correctAnswer": "are taking / will be",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "101 . _______ raiding for camels was a significant part of Bedouin life has been documented in Wilfred Thesiger’s Arabian Sands.",
+    "options": [
+      "A . That",
+      "B . Which",
+      "C . What",
+      "D . Where"
+    ],
+    "correctAnswer": "That",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "102 . The TV station, in_______ to massive popular demand, decided not to discontinue the soap opera.",
+    "options": [
+      "A . reaction",
+      "B . response",
+      "C . answer",
+      "D . rely"
+    ],
+    "correctAnswer": "response",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "103 . His emotional problems _______ from the attitudes he encountered as a child, I think.",
+    "options": [
+      "A . stem",
+      "B . flourish",
+      "C . root",
+      "D . sprout"
+    ],
+    "correctAnswer": "stem",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "104 . Pete was born and brought up in Cornwall and he knows the place like the _______.",
+    "options": [
+      "A . nose on his face",
+      "B . back of his hand",
+      "C . hairs on his head",
+      "D . teeth of his mouth"
+    ],
+    "correctAnswer": "back of his hand",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "105 . British and Australian people share the same language, but in other respects they are as different as _______.",
+    "options": [
+      "A . cats and dogs",
+      "B . salt and pepper",
+      "C . chalk and cheese",
+      "D . here and there"
+    ],
+    "correctAnswer": "chalk and cheese",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "106 . Rows and silences are _______ and parcel of any marriage.",
+    "options": [
+      "A . package",
+      "B . stamps",
+      "C . packet",
+      "D . part"
+    ],
+    "correctAnswer": "part",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "107 . Ancient Egyptians mummified their dead through the use of chemicals, _______ ancient Peruvians did through natural processes.",
+    "options": [
+      "A . because",
+      "B . whereas",
+      "C . even though",
+      "D . whether or not"
+    ],
+    "correctAnswer": "whereas",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "108 . A few animals sometimes fool their enemies _______ to be dead.",
+    "options": [
+      "A . have been appearing",
+      "B . to be appearing",
+      "C . to appear",
+      "D . by appearing"
+    ],
+    "correctAnswer": "by appearing",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "109 . On no account _______ in the office be used for personal materials.",
+    "options": [
+      "A . the photocopy machines",
+      "B . the photocopy machines should",
+      "C . should the photocopy machines",
+      "D . does the photocopy machines"
+    ],
+    "correctAnswer": "should the photocopy machines",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "110 . The _______ of the bank where he worked was not in the center of the city.",
+    "options": [
+      "A . branch",
+      "B . seat",
+      "C . house",
+      "D . piece"
+    ],
+    "correctAnswer": "branch",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "111 . _______ from Bill, all the students said they would go.",
+    "options": [
+      "A . Except",
+      "B . Only",
+      "C . Apart",
+      "D . Separate"
+    ],
+    "correctAnswer": "Apart",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "112 . _______ my opinion, French cheese is better than English cheese.",
+    "options": [
+      "A . For",
+      "B . To",
+      "C . By",
+      "D . In"
+    ],
+    "correctAnswer": "In",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "113 . When I bought the shoes, they _______ me well but later they were too tight at home.",
+    "options": [
+      "A . matched",
+      "B . fitted",
+      "C . suited",
+      "D . went with"
+    ],
+    "correctAnswer": "fitted",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "114 . The purpose of phonetics is _______ an inventory and a description of the sounds found in speech.",
+    "options": [
+      "A . provide",
+      "B . provided",
+      "C . to provide",
+      "D . being provided"
+    ],
+    "correctAnswer": "to provide",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "115 : They received a ten-year sentence for _______ armed robbery.",
+    "options": [
+      "A . making",
+      "B . doing",
+      "C . committing",
+      "D . practicing"
+    ],
+    "correctAnswer": "committing",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "116 . _______ the hijacker plane landed, it was surrounded by police.",
+    "options": [
+      "A . As soon as",
+      "B . While",
+      "C . Just",
+      "D . Until"
+    ],
+    "correctAnswer": "As soon as",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "117 . This magazine is very good. If you like reading, you should _______ to it.",
+    "options": [
+      "A . buy",
+      "B . subscribe",
+      "C . contribute",
+      "D . enroll"
+    ],
+    "correctAnswer": "subscribe",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "118 . In life _______ can make a mistake ; We’re all human.",
+    "options": [
+      "A . anyone",
+      "B . someone",
+      "C . some people",
+      "D . not anybody"
+    ],
+    "correctAnswer": "anyone",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "119 . “Want me to turn up the heater?”    “_______”",
+    "options": [
+      "A . Please don’t. It’s quite warm here.",
+      "B . It’s my pleasure.",
+      "C . No, go right ahead.",
+      "D . Thanks, I’ll be right back."
+    ],
+    "correctAnswer": "Please don’t. It’s quite warm here.",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "120 . He’ll be very upset if you _______ his offer of help.",
+    "options": [
+      "A . turn away",
+      "B . turn from",
+      "C . turn down",
+      "D . turn against"
+    ],
+    "correctAnswer": "turn down",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "121 . Do you have any objections _______ this new road scheme?",
+    "options": [
+      "A . at",
+      "B . with",
+      "C . to",
+      "D . for"
+    ],
+    "correctAnswer": "to",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "122 . The police set a _______ to catch the thieves.",
+    "options": [
+      "A . plan",
+      "B . device",
+      "C . snare",
+      "D . trap"
+    ],
+    "correctAnswer": "trap",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "123 . Although he was _______, he agreed to play tennis with me.",
+    "options": [
+      "A . exhaustion",
+      "B . exhausted",
+      "C . exhausting",
+      "D . exhaustive"
+    ],
+    "correctAnswer": "exhausted",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "124.  _______ I didn’t know how to do the job. But now I am making progress.",
+    "options": [
+      "A . First",
+      "B . First of all",
+      "C . At first",
+      "D . At the first"
+    ],
+    "correctAnswer": "At first",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "125 . Language could _______ more quickly if there were more language exchange programs.",
+    "options": [
+      "A . be learning",
+      "B . have learned",
+      "C . have learning",
+      "D . be learned"
+    ],
+    "correctAnswer": "be learned",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "126 . She won the award for _______ her whole life to looking after the poor.",
+    "options": [
+      "A . paying",
+      "B . devoting",
+      "C . causing",
+      "D . attracting"
+    ],
+    "correctAnswer": "devoting",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "127 . Although the exam was difficult, _______ the students passed it.",
+    "options": [
+      "A . most of",
+      "B . none of",
+      "C . a few",
+      "D . a lot"
+    ],
+    "correctAnswer": "most of",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "128 . The mirror was _______ broken.",
+    "options": [
+      "A . accident",
+      "B . accidental",
+      "C . accidentally",
+      "D . by accident"
+    ],
+    "correctAnswer": "accidentally",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "129 . But for his help, I _______.",
+    "options": [
+      "A . would not have succeeded",
+      "B . had not succeeded",
+      "C . did not succeed",
+      "D . would succeed"
+    ],
+    "correctAnswer": "would not have succeeded",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "130 : I may look half asleep, but I can assure you I am _______ awake.",
+    "options": [
+      "A . broad",
+      "B . full",
+      "C . well",
+      "D . wide"
+    ],
+    "correctAnswer": "wide",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "131 . “I am sorry. I broke the vase.” – “_______”",
+    "options": [
+      "A . Don’t worry. Things break.",
+      "B . OK. Go ahead.",
+      "C . Yes, certainly.",
+      "D . I’d rather not."
+    ],
+    "correctAnswer": "Don’t worry. Things break.",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "132 . The tourists refused to _______ the poor service.",
+    "options": [
+      "A . stand in for",
+      "B . put up with",
+      "C . get away from",
+      "D . get on with"
+    ],
+    "correctAnswer": "put up with",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "133 . I haven’t got the time to do my own work, _______ help you with yours.",
+    "options": [
+      "A . leaving aside",
+      "B . let alone",
+      "C . apart from",
+      "D . not counting"
+    ],
+    "correctAnswer": "let alone",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "134 : Professor Lockwood recommended that Michael _______ in chemistry.",
+    "options": [
+      "A . not to major",
+      "B . not major",
+      "C . isn’t majoring",
+      "D . wouldn’t major"
+    ],
+    "correctAnswer": "not major",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "135 . Luggage may be placed here _______ the owner’s risk.",
+    "options": [
+      "A . at",
+      "B . by",
+      "C . under",
+      "D . with"
+    ],
+    "correctAnswer": "at",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "136 . It’s a serious operation for a woman as old as my grandmother. She is very frail.\nI hope she _______.",
+    "options": [
+      "A . gets away",
+      "B . comes round",
+      "C . pulls through",
+      "D . stands up"
+    ],
+    "correctAnswer": "pulls through",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "137 . _______ any other politician would have given way to this sort of pressure years ago.",
+    "options": [
+      "A . Really",
+      "B . Practically",
+      "C . Actually",
+      "D . Utterly"
+    ],
+    "correctAnswer": "Practically",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "138 . There’s no danger in using this machine as long as you _______ to the safety regulations.",
+    "options": [
+      "A . comply",
+      "B . adhere",
+      "C . observe",
+      "D . abide"
+    ],
+    "correctAnswer": "adhere",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "139.  “The test results will be released at 9 am tomorrow!” – “Will it? _______”",
+    "options": [
+      "A . I can’t wait!",
+      "B . Yes, please.",
+      "C . Could it wait?",
+      "D . Can I wait for it?"
+    ],
+    "correctAnswer": "I can’t wait!",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "140 . _______ drivers endanger their lives and those of other road users.",
+    "options": [
+      "A . Drunk",
+      "B . Drunken",
+      "C . Drinking",
+      "D . Drunkard"
+    ],
+    "correctAnswer": "Drunken",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "141 . “_______” - “I love it. It’s great, especially at night.”",
+    "options": [
+      "A . When do you often listen to classical music?",
+      "B . How do you like classical music?",
+      "C . What kind of music do you like?",
+      "D . How often do you listen to classical music?"
+    ],
+    "correctAnswer": "How do you like classical music?",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "142 . Lin’s success took us all by surprise.\nA . Lin was successful, which surprised all of us.",
+    "options": [
+      "A . Lin was successful, which surprised all of us.",
+      "B . We took all of Lin’s successes surprisingly.",
+      "C . We were taken aback by all of Lin’s successes.",
+      "D . Lin’s success was surprised to all of us."
+    ],
+    "correctAnswer": "Lin was successful, which surprised all of us.",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "143 . Fiona goes to the theater once in a blue moon.\nA . Fiona goes to the theater when the blue moon is on.",
+    "options": [
+      "A . Fiona goes to the theater when the blue moon is on.",
+      "B . Fiona goes to the theater only once a month.",
+      "C . Fiona goes to the theater when the moon is full.",
+      "D . Fiona occasionally goes to the theater."
+    ],
+    "correctAnswer": "Fiona occasionally goes to the theater.",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "144 . I need to get some cash. Do you think we might pass a bank _______?",
+    "options": [
+      "A . in the way",
+      "B . to the way",
+      "C . on the way",
+      "D . at the way"
+    ],
+    "correctAnswer": "on the way",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "145 . Will you _______ the children while I’m out?",
+    "options": [
+      "A . pay attention to",
+      "B . care about",
+      "C . look after",
+      "D . look out"
+    ],
+    "correctAnswer": "look after",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "146 . I liked the coat when I bought it, but now I’ve _______ my mind.",
+    "options": [
+      "A . altered",
+      "B . decided",
+      "C . reversed",
+      "D . changed"
+    ],
+    "correctAnswer": "changed",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "147 . In the middle of all the panic, she _______ phoned the police.",
+    "options": [
+      "A . silently",
+      "B . calmly",
+      "C . peacefully",
+      "D . middy"
+    ],
+    "correctAnswer": "calmly",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "148 . _______ on a hot fire is a delicacy in many parts of the world.",
+    "options": [
+      "A . lamb roasted",
+      "B . roasted",
+      "C . lambs roast",
+      "D . lamb"
+    ],
+    "correctAnswer": "lamb roasted",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "149 . _______ determines a good meal varies from country to country",
+    "options": [
+      "A . which",
+      "B . why",
+      "C . what",
+      "D . how"
+    ],
+    "correctAnswer": "what",
+    "part": "Part I"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "150 . Mary wanted to give Nigel a present that was a little bit out of the _______.",
+    "options": [
+      "A . normal",
+      "B . ordinary",
+      "C . average",
+      "D . everyday"
+    ],
+    "correctAnswer": "ordinary",
+    "part": "Part I"
+  },
+  {
+    "type": "text_based_question",
+    "text_passage": "COMPUTER WORLD\nDiscounts for students only with student cards.\nAsk inside for details.",
+    "question": "1.",
+    "options": [
+      "A . You can’t get reduced prices without your student card.",
+      "B . If you show your student card, they’ll give you details.",
+      "C . If you go inside, they’ll give you a student card."
+    ],
+    "correctAnswer": "You can’t get reduced prices without your student card.",
+    "part": "Part II"
+  },
+  {
+    "type": "text_based_question",
+    "text_passage": "Message\nFrom: ‘Xavier\nTo: Pierre\nPierre - no seats on any Paris flight on Sunday. There’s space on Monday’s 09.00, but you must confirm before tomorrow lunchtime.",
+    "question": "2.",
+    "options": [
+      "A . Pierre’s flight has not yet been reserved.",
+      "B . It’s possible for Pierre to fly tomorrow.",
+      "C . Pierre’s flight has been changed."
+    ],
+    "correctAnswer": "Pierre’s flight has not yet been reserved.",
+    "part": "Part II"
+  },
+  {
+    "type": "text_based_question",
+    "text_passage": "Moving house?\nDon’t forget to tell us so we can keep you on our mailing list.\nComplete your new details on this form and return it to us",
+    "question": "3.",
+    "options": [
+      "A . Remember to complete the mailing list.",
+      "B . We’d like you to send us your new address.",
+      "C . The details of our mailing list are on the form."
+    ],
+    "correctAnswer": "We’d like you to send us your new address.",
+    "part": "Part II"
+  },
+  {
+    "type": "text_based_question",
+    "text_passage": "Chris\nGone to Dad’s He rang in a panic - he could smell gas! Dinner’s in the oven - start without me. Back soon\nAngie",
+    "question": "4.",
+    "options": [
+      "A . Angie went out because of a phone call.",
+      "B . Angie’s father rang to warn her about something.",
+      "C . Chris will have to make his own dinner."
+    ],
+    "correctAnswer": "Angie went out because of a phone call.",
+    "part": "Part II"
+  },
+  {
+    "type": "text_based_question",
+    "text_passage": "If you are not satisfied with your purchase, please feel free to return it to any of our branches. We are happy to exchange or refund the cost of any unused item.",
+    "question": "5.",
+    "options": [
+      "A . you must not use it before returning it.",
+      "B . you have exchange for something else.",
+      "C . you should take it back to where you bought it."
+    ],
+    "correctAnswer": "you must not use it before returning it.",
+    "part": "Part II"
+  },
+  {
+    "type": "text_based_question",
+    "text_passage": "Great sports bike\nIn perfect condition - less than two years old - quick sale needed - offers welcome (not less than €100). Abdul 0775 221 321",
+    "question": "6.",
+    "options": [
+      "A . Abdul’s bike needs only a few repairs.",
+      "B . Abdul bought this bike two years ago.",
+      "C . Abdul would accept €100."
+    ],
+    "correctAnswer": "Abdul would accept €100.",
+    "part": "Part II"
+  },
+  {
+    "type": "text_based_question",
+    "text_passage": "From: Toshi\nTo: Olga\nRemember my biology book? I need it urgently, exam’s on Friday! Leave it in main office - tomorrow at the latest. Thanks",
+    "question": "7.",
+    "options": [
+      "A .to get her book back.",
+      "B . to meet Toshi tomorrow.",
+      "C . to take her biology exam."
+    ],
+    "correctAnswer": "to get her book back.",
+    "part": "Part II"
+  },
+  {
+    "type": "text_based_question",
+    "text_passage": "CENTRAL SWIMMING POOL\nBecause of problems with the showers, the pool is closed until further notice.",
+    "question": "8.",
+    "options": [
+      "A . the showers.",
+      "B . the pool.",
+      "C . the showers and the pool."
+    ],
+    "correctAnswer": "the showers.",
+    "part": "Part II"
+  },
+  {
+    "type": "text_based_question",
+    "text_passage": "To: Gina\nFrom: Zoe\nLike to go and see “Chicago” tonight? If I don’t hear from you, I’ll see you outside ABC at 7.30. OK?",
+    "question": "9.",
+    "options": [
+      "A . reply immediately.",
+      "B . ring the cinema.",
+      "C . nothing."
+    ],
+    "correctAnswer": "nothing.",
+    "part": "Part II"
+  },
+  {
+    "type": "text_based_question",
+    "text_passage": "Had a bad start to the holiday - our luggage didn’t turn up for 2 days! But now - brilliant place! Spending most of the time water-skiing. We’re thinking of not coming home.",
+    "question": "10.",
+    "options": [
+      "A . Because they lost their luggage.",
+      "B . Because they like the place so much",
+      "C . Because they missed two days of their holiday."
+    ],
+    "correctAnswer": "Because they like the place so much",
+    "part": "Part II"
+  },
+  {
+    "type": "text_based_question",
+    "text_passage": "NO ENTRY EXCEPT WITH A VALID PERMIT WHICH CAN BE BOUGHT FROM THE TOWN HALL",
+    "question": "11.",
+    "options": [
+      "A . If you want to come in, you must have a permit.",
+      "B . You must go to the Town Hall if you have a permit.",
+      "C . You need a permit if you want to enter the Town Hall."
+    ],
+    "correctAnswer": "If you want to come in, you must have a permit.",
+    "part": "Part II"
+  },
+  {
+    "type": "text_based_question",
+    "text_passage": "Accident here at 6.00 pm on Sunday 25th September. Please contact police on 3569087 if you saw anything",
+    "question": "12.",
+    "options": [
+      "A . The police would like to speak to people on September 25th.",
+      "B . The police want to speak to people who had an accident on September 25th.",
+      "C . The police want people to tell them if they saw the accident on September 25th."
+    ],
+    "correctAnswer": "The police want people to tell them if they saw the accident on September 25th.",
+    "part": "Part II"
+  },
+  {
+    "type": "text_based_question",
+    "text_passage": "Hi Sam,\nI’m in a café with Dan. We’re going into Railtons store shortly to choose some football kit. Come and join us! We’ll be here till 3 p.m. Jake",
+    "question": "13.",
+    "options": [
+      "A . Sam can meet Jake and Dan at the café if he goes before 3 p.m.",
+      "B . Jake wants Sam to help him choose new sports clothes.",
+      "C . Dan and Jake will wait for Sam to arrive before they go to Railtons."
+    ],
+    "correctAnswer": "Sam can meet Jake and Dan at the café if he goes before 3 p.m.",
+    "part": "Part II"
+  },
+  {
+    "type": "text_based_question",
+    "text_passage": "To: All students\nFrom: Mrs. Matthews\nWe have just had a delivery of new school sweatshirts. Students wishing to buy one to wear should come to the office at lunchtime.",
+    "question": "14.",
+    "options": [
+      "A . Some new school uniform is available in the office.",
+      "B . Students must wear their new school sweatshirts during lunch break today.",
+      "C . The office is expecting items of new school clothing to be delivered at lunchtime."
+    ],
+    "correctAnswer": "Some new school uniform is available in the office.",
+    "part": "Part II"
+  },
+  {
+    "type": "text_based_question",
+    "text_passage": "We do not give refunds for reduced items you have bought in our sale .",
+    "question": "15.",
+    "options": [
+      "A . There are no reduced items on sale in the store at the moment.",
+      "B . You can’t get money back for things you got cheaply in the sale.",
+      "C . Refunds for reduced items cannot be given after the sale has finished."
+    ],
+    "correctAnswer": "You can’t get money back for things you got cheaply in the sale.",
+    "part": "Part II"
+  },
+  {
+    "type": "text_based_question",
+    "text_passage": "No more than three items allowed in changing room.",
+    "question": "16.",
+    "options": [
+      "A . You cannot try on items anywhere except in the changing rooms.",
+      "B . You may take a maximum of three items with you into the changing rooms.",
+      "C . There are only three changing rooms available at any time for trying on items."
+    ],
+    "correctAnswer": "You may take a maximum of three items with you into the changing rooms.",
+    "part": "Part II"
+  },
+  {
+    "type": "text_based_question",
+    "text_passage": "Hi Dan ,\nMy brother won’t let me borrow his baseball boots, so I need to buy some. Can you tell which shop in town you bought yours from?\nThanks. Harry",
+    "question": "17.",
+    "options": [
+      "A . meet Dan in town to borrow his baseball boots.",
+      "B . tell Dan which shop he can get some baseball boots from.",
+      "C . find out where Dan went to get his baseball boots."
+    ],
+    "correctAnswer": "find out where Dan went to get his baseball boots.",
+    "part": "Part II"
+  },
+  {
+    "type": "text_based_question",
+    "text_passage": "PLEASE GIVE UP SEAT TO PEOPLE CARRYING CHILDREN",
+    "question": "18.",
+    "options": [
+      "A . If somebody carrying a child gets on, offer them your seat.",
+      "B . People carrying children are requested to remain seated.",
+      "C . You can only use this seat if you are carrying children."
+    ],
+    "correctAnswer": "If somebody carrying a child gets on, offer them your seat.",
+    "part": "Part II"
+  },
+  {
+    "type": "text_based_question",
+    "text_passage": "To: Jane\nFrom: Maria\nMy dad said he’ll drive us into town on Saturday to go shopping, we’ll pick you up at 11 a.m., OK? We need to get a present for Sophie - any ideas?",
+    "question": "19.",
+    "options": [
+      "A . make a suggestion to
