@@ -1,0 +1,118 @@
+// Define the correct answers for each question based on the provided text
+const correctAnswers = {
+    q1: "A", // direct [cite: 11]
+    q2: "C", // decisive [cite: 11]
+    q3: "D", // determining [cite: 11]
+    q4: "B", // resolutely [cite: 11]
+    q5: "B", // political [cite: 11]
+    q6: "A", // leadership [cite: 11]
+    q7: "D", // achieved [cite: 11]
+    q8: "C", // stipulating [cite: 11]
+    q9: "B", // centrally [cite: 11]
+    q10: "B" // commanding [cite: 11]
+};
+
+// Function to check a single answer when a radio button is clicked
+function checkSingleAnswer(radioElement) {
+    const qName = radioElement.name; // e.g., 'q1', 'q2'
+    // Find the parent question block for this radio button
+    const questionBlockDiv = radioElement.closest('.question-block');
+    // Get all label elements (options) within this question block
+    const labels = questionBlockDiv.querySelectorAll('label');
+
+    // --- Step 1: Clear all previous highlights and feedback icons for this question ---
+    labels.forEach(label => {
+        label.classList.remove('correct', 'incorrect');
+        const feedbackIcon = label.querySelector('.feedback-icon');
+        if (feedbackIcon) {
+            feedbackIcon.textContent = ''; // Clear the icon text
+        }
+    });
+
+    // --- Step 2: Apply highlight and feedback icon to the *selected* answer ---
+    const selectedValue = radioElement.value;
+    const parentLabel = radioElement.closest('label');
+    const selectedFeedbackIcon = parentLabel.querySelector('.feedback-icon');
+
+    if (selectedValue === correctAnswers[qName]) {
+        parentLabel.classList.add('correct');
+        if (selectedFeedbackIcon) {
+            selectedFeedbackIcon.textContent = '✓'; // Display checkmark for correct
+        }
+    } else {
+        parentLabel.classList.add('incorrect');
+        if (selectedFeedbackIcon) {
+            selectedFeedbackIcon.textContent = '✗'; // Display cross for incorrect
+        }
+        // --- Step 3: If selected is incorrect, also highlight the correct answer in green ---
+        labels.forEach(label => {
+            if (label.querySelector('input').value === correctAnswers[qName]) {
+                label.classList.add('correct');
+                const correctFeedbackIcon = label.querySelector('.feedback-icon');
+                if (correctFeedbackIcon) {
+                    correctFeedbackIcon.textContent = '✓'; // Display checkmark on correct answer
+                }
+            }
+        });
+    }
+}
+
+// Function to check all answers (when "Xem kết quả cuối cùng" button is clicked)
+function checkAllAnswers() {
+    const form = document.getElementById('quizForm');
+    let score = 0;
+    const totalQuestions = Object.keys(correctAnswers).length;
+
+    for (let i = 1; i <= totalQuestions; i++) {
+        const qName = `q${i}`;
+        const selectedOption = form.elements[qName].value;
+        const questionBlockDiv = document.getElementById(qName);
+        const labels = questionBlockDiv.querySelectorAll('label');
+
+        // Clear any existing highlights and feedback icons
+        labels.forEach(label => {
+            label.classList.remove('correct', 'incorrect');
+            const feedbackIcon = label.querySelector('.feedback-icon');
+            if (feedbackIcon) {
+                feedbackIcon.textContent = '';
+            }
+        });
+
+        if (selectedOption) { // If an option was selected for this question
+            labels.forEach(label => {
+                const feedbackIcon = label.querySelector('.feedback-icon');
+                if (label.querySelector('input').value === selectedOption) {
+                    if (selectedOption === correctAnswers[qName]) {
+                        label.classList.add('correct');
+                        if (feedbackIcon) feedbackIcon.textContent = '✓';
+                        score++;
+                    } else {
+                        label.classList.add('incorrect');
+                        if (feedbackIcon) feedbackIcon.textContent = '✗';
+                        // Highlight the actual correct answer
+                        labels.forEach(correctLabel => {
+                            if (correctLabel.querySelector('input').value === correctAnswers[qName]) {
+                                correctLabel.classList.add('correct');
+                                const correctFeedbackIcon = correctLabel.querySelector('.feedback-icon');
+                                if (correctFeedbackIcon) correctFeedbackIcon.textContent = '✓';
+                            }
+                        });
+                    }
+                }
+            });
+        } else { // If no option was selected for this question (left blank)
+            // Just highlight the correct answer and show checkmark
+            labels.forEach(label => {
+                if (label.querySelector('input').value === correctAnswers[qName]) {
+                    label.classList.add('correct');
+                    const feedbackIcon = label.querySelector('.feedback-icon');
+                    if (feedbackIcon) feedbackIcon.textContent = '✓';
+                }
+            });
+        }
+    }
+
+    const resultDiv = document.getElementById('quizResult');
+    resultDiv.style.display = 'block';
+    resultDiv.innerHTML = `Bạn đã trả lời đúng ${score} / ${totalQuestions} câu.`;
+}
