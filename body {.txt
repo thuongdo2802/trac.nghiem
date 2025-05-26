@@ -1,0 +1,101 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #e0f2f7; /* Light blue background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    color: #333;
+}
+
+.quiz-container {
+    background-color: #ffffff;
+    padding: 35px 40px;
+    border-radius: 12px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+    width: 100%;
+    max-width: 700px;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    color: #007bff; /* Blue heading */
+    margin-bottom: 35px;
+    font-size: 2.2em;
+    font-weight: 600;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 15px;
+}
+
+.question {
+    margin-bottom: 30px;
+    padding-bottom: 25px;
+    border-bottom: 1px dashed #cce7ee;
+}
+
+.question:last-child {
+    border-bottom: none; /* No border for the last question */
+}
+
+.question p {
+    font-size: 1.25em;
+    margin-bottom: 18px;
+    color: #444;
+    font-weight: 500;
+}
+
+.options {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.option-btn {
+    background-color: #f0f8ff; /* Light azure */
+    border: 1px solid #a3daef;
+    padding: 14px 20px;
+    text-align: left;
+    font-size: 1.1em;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    outline: none; /* Remove outline on focus */
+}
+
+.option-btn:hover {
+    background-color: #dbeeff;
+    border-color: #87ceeb;
+}
+
+/* Styles for correct and incorrect answers */
+.option-btn.correct {
+    background-color: #d4edda; /* Light green */
+    border-color: #28a745; /* Dark green border */
+    color: #155724; /* Dark green text */
+    font-weight: bold;
+    box-shadow: 0 0 8px rgba(40, 167, 69, 0.4);
+}
+
+.option-btn.incorrect {
+    background-color: #f8d7da; /* Light red */
+    border-color: #dc3545; /* Dark red border */
+    color: #721c24; /* Dark red text */
+    font-weight: bold;
+    box-shadow: 0 0 8px rgba(220, 53, 69, 0.4);
+}
+
+.option-btn:disabled {
+    cursor: not-allowed;
+    opacity: 0.7;
+}
+
+.result-text {
+    margin-top: 15px;
+    font-size: 1.15em;
+    font-weight: 600;
+    font-style: italic;
+    min-height: 25px; /* Ensures space even when empty */
+    padding-left: 5px;
+}
